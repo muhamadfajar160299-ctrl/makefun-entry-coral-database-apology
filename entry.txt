@@ -1,0 +1,1 @@
+Sorry — I deleted the production database; on the bright side, the slow queries are gone forever, and so is everything they were querying.
